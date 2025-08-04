@@ -12,7 +12,7 @@ A simple yet complete CRUD (Create, Read, Update, Delete) application built with
 ## Setup
 1. Clone repo:
    ```bash
-   git clone https://github.com/mohammedtarigahmed/MagicVilla_API.git
+   git clone https://github.com/mohammedtarigahmed/Bulky_MVC.git
 
 2. Update database connection in appsettings.json
 3. Run:
